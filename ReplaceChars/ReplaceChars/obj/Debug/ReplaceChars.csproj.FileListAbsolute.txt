@@ -1,0 +1,10 @@
+C:\Users\Ovidiu\source\repos\ReplaceChars\ReplaceChars\obj\Debug\ReplaceChars.csprojAssemblyReference.cache
+C:\Users\Ovidiu\source\repos\ReplaceChars\ReplaceChars\obj\Debug\ReplaceChars.Form1.resources
+C:\Users\Ovidiu\source\repos\ReplaceChars\ReplaceChars\obj\Debug\ReplaceChars.Properties.Resources.resources
+C:\Users\Ovidiu\source\repos\ReplaceChars\ReplaceChars\obj\Debug\ReplaceChars.csproj.GenerateResource.cache
+C:\Users\Ovidiu\source\repos\ReplaceChars\ReplaceChars\obj\Debug\ReplaceChars.csproj.CoreCompileInputs.cache
+C:\Users\Ovidiu\source\repos\ReplaceChars\ReplaceChars\bin\Debug\ReplaceChars.exe.config
+C:\Users\Ovidiu\source\repos\ReplaceChars\ReplaceChars\bin\Debug\ReplaceChars.exe
+C:\Users\Ovidiu\source\repos\ReplaceChars\ReplaceChars\bin\Debug\ReplaceChars.pdb
+C:\Users\Ovidiu\source\repos\ReplaceChars\ReplaceChars\obj\Debug\ReplaceChars.exe
+C:\Users\Ovidiu\source\repos\ReplaceChars\ReplaceChars\obj\Debug\ReplaceChars.pdb
